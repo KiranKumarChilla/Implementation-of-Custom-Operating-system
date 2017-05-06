@@ -1,0 +1,2484 @@
+
+Cumulative Job Identification number : 7DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 054 F80 053 000 FFF FFF 640 F50
+0188 409 3B8 7A0 2B6 A35 3B5 7A0 2B3
+0190 435 054 330 20A 12F 209 209 339
+0198 208 720 207 303 203 40A 610 610
+01a0 610 610 610 610 610 610 FFF 610
+01a8 335 13C F10 41A 231 3B2 1B7 FD0
+01b0 426 2AE B2E 710 92D F20 406 B29
+01b8 22C B28 A26 329 A25 323 720 221
+01c0 720 220 42A 000 003 FFF BBC 2BB
+01c8 BBB F90 610 B37 620 335 720 233
+01d0 1B4 437 FFF FFF 000 000 000 000
+01d8 005 001 007 008 FFC null null null
+01e0 null 
+Input lines are:(HEX)
+		005
+		001
+		007
+		008
+		FFC
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	97Words(DECIMAL)
+Time Job Entered the system	0HEX
+Time Job is leaving the system	6HEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Warning:	bad traceflag
+
+Cumulative Job Identification number : 4DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 309 705 207 403 640 204 439 302
+0028 620 610 028 000 00A 003 028 null
+0030 null 
+Input lines are:(HEX)
+		00A
+		003
+output lines are:(HEX)
+		028
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	17Words(DECIMAL)
+Time Job Entered the system	4HEX
+Time Job is leaving the system	62HEX
+Execution time	10DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	30DECIMAL
+
+Cumulative Job Identification number : 8DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 211 790 7A0 C0E 6C0 GD0 539 288
+0188 307 7C0 185 105 F60 43C 6A0 610
+0190 000 FFF 000 004 00E 001 209 
+Input lines are:(HEX)
+		004
+		00E
+		001
+output lines are:(HEX)
+		209
+Partition number used by this job	2(DECIMAL)	
+ size occupied by this job	23Words(DECIMAL)
+Time Job Entered the system	7HEX
+Time Job is leaving the system	99HEX
+Execution time	2DECIMAL
+Time spent doing I/O	10DECIMAL
+Total run time	12DECIMAL
+Error:	illegal input
+
+Cumulative Job Identification number : 5DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 213 00F 20E 310 00D 703 703
+00c8 20A 30B 009 705 705 105 103 206
+00d0 206 407 000 200 F00 024 200 200
+00d8 000 3BB 790 7A0 1B9 FD0 40C FC0
+00e0 405 3B3 6A0 3B3 6A0 610 3AE 6A0
+00e8 3AF 6A0 610 3AA 1AA 2A8 42A 024
+00f0 01C 024 000 
+Input lines are:(HEX)
+		024
+		01C
+output lines are:(HEX)
+		024
+		000
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	51Words(DECIMAL)
+Time Job Entered the system	5HEX
+Time Job is leaving the system	c5HEX
+Execution time	30DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	60DECIMAL
+
+Cumulative Job Identification number : 1DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 6C0 F90 610 F70 004 2BE 790 7A0
+0048 281 FF0 ffc 640 205 206 7C0 7A0
+0050 784 FF0 000 FF0 00A 29A 319 132
+0058 F60 415 640 21A 710 720 133 F10
+0060 403 314 22F 408 311 710 720 12C
+0068 F20 402 30B 228 7A0 282 427 FF0
+0070 005 320 620 320 620 610 007 004
+0078 00A 000 001 007 000 00A null 
+Input lines are:(HEX)
+		004
+		00A
+		000
+		001
+		007
+output lines are:(HEX)
+		000
+		00A
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	63Words(DECIMAL)
+Time Job Entered the system	1HEX
+Time Job is leaving the system	f7HEX
+Execution time	80DECIMAL
+Time spent doing I/O	70DECIMAL
+Total run time	150DECIMAL
+
+Cumulative Job Identification number : 3DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 640 21C 640 21B 710 720 21A 640
+0088 217 710 720 216 311 113 F50 407
+0090 400 38C 30B 10E F50 38A 405 387
+0098 306 108 F50 384 6A0 610 00F 002
+00a0 000 ffe 000 00F 002 000 003 005
+00a8 00F 
+Input lines are:(HEX)
+		00F
+		002
+		000
+		003
+		005
+output lines are:(HEX)
+		00F
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	41Words(DECIMAL)
+Time Job Entered the system	3HEX
+Time Job is leaving the system	114HEX
+Execution time	23DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	63DECIMAL
+
+Cumulative Job Identification number : 11DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 6C0 299 316 216 396 195 295 312
+00c8 115 210 F40 439 390 18E 28E 309
+00d0 10D 207 F40 42E 386 6A0 186 6A0
+00d8 610 003 000 000 000 000 FFF 00I
+00e0 003 00A    
+Input lines are:(HEX)
+		00I
+		003
+		00A
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	37Words(DECIMAL)
+Time Job Entered the system	162HEX
+Time Job is leaving the system	nullHEX
+Execution time	1DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	1DECIMAL
+Error:	illegal input
+
+Cumulative Job Identification number : 2DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 640 211 212 F10 40A 30E 10E 20C
+0008 30C 10C F30 402 208 437 304 384
+0010 620 6A0 610 00E 069 001 FFF 00E
+0018 005 001 003 00E 069 null null null 
+Input lines are:(HEX)
+		00E
+		005
+		001
+		003
+output lines are:(HEX)
+		00E
+		069
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	32Words(DECIMAL)
+Time Job Entered the system	2HEX
+Time Job is leaving the system	17eHEX
+Execution time	120DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	150DECIMAL
+
+Degree of Multi Programming is	5DECIMAL
+JobId of CurrentJob being executed is	6DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		13DECIMAL
+		14DECIMAL
+		12DECIMAL
+JobIds of CurrentJobs in BLOCKEDQUEUE are
+		9DECIMAL 
+
+Cumulative Job Identification number : 6DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 217 316 014 F30 403 315 620
+0108 402 313 620 30C 702 20A 30C 10A
+0110 20A F40 42F 610 000 000 000 000
+0118 800 01C FFF 000 001 000 000 000
+0120 01C 000 000 000 000 000 000 000
+0128 001 000 000 000 000 null null 
+Input lines are:(HEX)
+		01C
+output lines are:(HEX)
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		001
+		000
+		000
+		000
+		000
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	47Words(DECIMAL)
+Time Job Entered the system	6HEX
+Time Job is leaving the system	21bHEX
+Execution time	170DECIMAL
+Time spent doing I/O	130DECIMAL
+Total run time	300DECIMAL
+
+Cumulative Job Identification number : 9DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 217 316 014 F30 403 315 620
+0188 402 313 620 30C 702 20A 30C 10A
+0190 20A F40 42F 610 000 000 000 000
+0198 800 00D FFF 000 001 000 000 000
+01a0 00D 000 000 000 000 000 000 000
+01a8 000 000 000 000 000 
+Input lines are:(HEX)
+		00D
+output lines are:(HEX)
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	45Words(DECIMAL)
+Time Job Entered the system	161HEX
+Time Job is leaving the system	2d2HEX
+Execution time	170DECIMAL
+Time spent doing I/O	130DECIMAL
+Total run time	300DECIMAL
+
+Cumulative Job Identification number : 14DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 213 00F 20E 310 00D 703 703
+00c8 20A 30B 009 705 705 105 103 206
+00d0 206 407 000 200 F00 023 200 200
+00d8 000 3BB 790 7A0 1B9 FD0 40C FC0
+00e0 405 3B3 6A0 3B3 6A0 610 3AE 6A0
+00e8 3AF 6A0 610 3AA 1AA 2A8 42A 023
+00f0 023 000  
+Input lines are:(HEX)
+		023
+output lines are:(HEX)
+		023
+		000
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	51Words(DECIMAL)
+Time Job Entered the system	165HEX
+Time Job is leaving the system	32eHEX
+Execution time	30DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	60DECIMAL
+
+Cumulative Job Identification number : 13DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 640 217 316 014 F30 403 315 620
+0088 402 313 620 30C 702 20A 30C 10A
+0090 20A F40 42F 610 000 000 000 000
+0098 800 004 FFF 000 001 000 000 000
+00a0 004 002 000 000 000 000 000 000
+00a8 000 000 000 000 000 000  
+00b0  
+Input lines are:(HEX)
+		004
+		002
+output lines are:(HEX)
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	49Words(DECIMAL)
+Time Job Entered the system	164HEX
+Time Job is leaving the system	3ecHEX
+Execution time	170DECIMAL
+Time spent doing I/O	130DECIMAL
+Total run time	300DECIMAL
+
+Degree of Multi Programming is	6DECIMAL
+JobId of CurrentJob being executed is	12DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		15DECIMAL
+		16DECIMAL
+		17DECIMAL
+		18DECIMAL
+		19DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 12DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 217 315 710 720 111 C12 640 20E
+0048 640 20D F30 41F 00C F40 41C 306
+0050 F30 419 006 F40 416 406 000 001
+0058 5a 800 525 409 523 03B F30 404
+0060 3B6 334 234 2B2 435 230 3AF 32F
+0068 FB0 402 431 302 620 610 FFF 00A
+0070 001 007 001      
+Input lines are:(HEX)
+		00A
+		001
+		007
+output lines are:(HEX)
+		001
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	56Words(DECIMAL)
+Time Job Entered the system	163HEX
+Time Job is leaving the system	447HEX
+Execution time	254DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	284DECIMAL
+
+Cumulative Job Identification number : 16DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 F10 417 217 319 620 720 216
+0188 316 720 214 710 720 10D F10 40A
+0190 30D 620 309 109 209 306 206 306
+0198 203 42E 610 005 005 003 005 005
+01a0 005 002 000 001 001 002 003 
+01a8  
+Input lines are:(HEX)
+		005
+		002
+output lines are:(HEX)
+		000
+		001
+		001
+		002
+		003
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	41Words(DECIMAL)
+Time Job Entered the system	439HEX
+Time Job is leaving the system	4e4HEX
+Execution time	84DECIMAL
+Time spent doing I/O	60DECIMAL
+Total run time	144DECIMAL
+
+Cumulative Job Identification number : 18DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 640 211 6C0 290 790 7A0 28E 38F
+0008 740 720 710 702 720 7A0 28E 38F
+0010 620 6A0 610 01C 003 ffd 000 001
+0018 000 FFF 01C 003 800    
+Input lines are:(HEX)
+		01C
+		003
+output lines are:(HEX)
+		800
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	32Words(DECIMAL)
+Time Job Entered the system	43bHEX
+Time Job is leaving the system	57eHEX
+Execution time	19DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	59DECIMAL
+
+Cumulative Job Identification number : 17DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 F10 417 217 319 620 720 216
+00c8 316 720 214 710 720 10D F10 40A
+00d0 30D 620 309 109 209 306 206 306
+00d8 203 42E 610 00A 037 022 037 00a
+00e0 00A 000 001 001 002 003 005 008
+00e8 00d 015 022   
+Input lines are:(HEX)
+		00A
+output lines are:(HEX)
+		000
+		001
+		001
+		002
+		003
+		005
+		008
+		00d
+		015
+		022
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	45Words(DECIMAL)
+Time Job Entered the system	43aHEX
+Time Job is leaving the system	5baHEX
+Execution time	169DECIMAL
+Time spent doing I/O	110DECIMAL
+Total run time	279DECIMAL
+
+Cumulative Job Identification number : 15DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 217 640 216 640 215 313 112
+0108 214 30F 111 F30 403 18D 10D 43B
+0110 18C 740 106 188 FC0 43C 702 620
+0118 610 003 001 002 FFF 002 003 001
+0120 002 009 009  
+Input lines are:(HEX)
+		003
+		001
+		002
+		009
+output lines are:(HEX)
+		009
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	36Words(DECIMAL)
+Time Job Entered the system	438HEX
+Time Job is leaving the system	5bbHEX
+Execution time	49DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	89DECIMAL
+
+Cumulative Job Identification number : 24DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 217 316 014 F30 403 315 620
+0108 402 313 620 30C 702 20A 30C 10A
+0110 20A F40 42F 610 000 000 000 000
+0118 800 000 FFF 00C 001 000 000 000
+0120 00D  
+Input lines are:(HEX)
+		00D
+		
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	46Words(DECIMAL)
+Time Job Entered the system	5bbHEX
+Time Job is leaving the system	nullHEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Warning:	Missing ** DATA record
+Error:	Missing Data
+
+Cumulative Job Identification number : 19DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 21D 31D 29F 11F F30 C18 19B 11B
+0088 F30 C14 43B 640 212 640 211 394
+0090 F30 406 20E 52C 30C 10D F40 43A
+0098 306 620 305 620 6A0 610 93 00A
+00a0 001 001 001 FFF 001 000 000 000
+00a8 00A 001 008 00A 001 00a 
+Input lines are:(HEX)
+		00A
+		001
+		008
+output lines are:(HEX)
+		00A
+		001
+		00a
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	46Words(DECIMAL)
+Time Job Entered the system	43cHEX
+Time Job is leaving the system	5cdHEX
+Execution time	58DECIMAL
+Time spent doing I/O	50DECIMAL
+Total run time	108DECIMAL
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	22DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		23DECIMAL
+		25DECIMAL
+		26DECIMAL
+		21DECIMAL
+		27DECIMAL
+JobIds of CurrentJobs in BLOCKEDQUEUE are
+		20DECIMAL 
+
+Cumulative Job Identification number : 22DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 309 705 207 403 640 204 439 302
+0028 620 610 00c 000 003 004 00c 
+Input lines are:(HEX)
+		003
+		004
+output lines are:(HEX)
+		00c
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	15Words(DECIMAL)
+Time Job Entered the system	5bfHEX
+Time Job is leaving the system	5ecHEX
+Execution time	10DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	30DECIMAL
+
+Cumulative Job Identification number : 21DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 21C 640 21B 710 720 21A 640
+0188 217 710 720 216 311 113 F50 407
+0190 400 38C 30B 10E F50 38A 405 387
+0198 306 108 F50 384 6A0 610 001 000
+01a0 00A 000 ff6 001 000 00A 00C 00A 
+Input lines are:(HEX)
+		001
+		000
+		00A
+		00C
+output lines are:(HEX)
+		00A
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	40Words(DECIMAL)
+Time Job Entered the system	5beHEX
+Time Job is leaving the system	684HEX
+Execution time	24DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	64DECIMAL
+
+Cumulative Job Identification number : 23DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 21E 740 39B F90 483 117 195 43B
+00c8 C16 21A 315 211 314 210 531 112
+00d0 012 20E C11 640 20B 640 20A 640
+00d8 209 52F 620 610 FFF 001 002 ce
+00e0 000 002 003 0FF d9 001 002 003
+00e8 000 
+Input lines are:(HEX)
+		001
+		002
+		003
+output lines are:(HEX)
+		000
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	41Words(DECIMAL)
+Time Job Entered the system	5c0HEX
+Time Job is leaving the system	6b8HEX
+Execution time	33DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	73DECIMAL
+
+Cumulative Job Identification number : 26DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 21D 31D 29F 11F F30 C18 19B 11B
+0108 F30 C14 43B 640 212 640 211 394
+0110 F30 406 20E 52C 30C 10D F40 43A
+0118 306 620 305 620 6A0 610 000 004
+0120 000 000 000 FFF 001 000 000 000
+0128 004 000 001 004 000 001 
+Input lines are:(HEX)
+		004
+		000
+		001
+output lines are:(HEX)
+		004
+		000
+		001
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	46Words(DECIMAL)
+Time Job Entered the system	5c2HEX
+Time Job is leaving the system	6cbHEX
+Execution time	13DECIMAL
+Time spent doing I/O	50DECIMAL
+Total run time	63DECIMAL
+
+Cumulative Job Identification number : 20DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 6C0 F90 610 F70 005 2BE 790 7A0
+0048 281 FF0 ffb 640 205 206 7C0 7A0
+0050 784 FF0 000 FF0 00A 29A 319 132
+0058 F60 415 640 21A 710 720 133 F10
+0060 403 314 22F 408 311 710 720 12C
+0068 F20 402 30B 228 7A0 282 427 FF0
+0070 006 320 620 320 620 610 003 005
+0078 00A 001 000 002 003 000 00A 
+Input lines are:(HEX)
+		005
+		00A
+		001
+		000
+		002
+		003
+output lines are:(HEX)
+		000
+		00A
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	63Words(DECIMAL)
+Time Job Entered the system	5bdHEX
+Time Job is leaving the system	6dbHEX
+Execution time	95DECIMAL
+Time spent doing I/O	80DECIMAL
+Total run time	175DECIMAL
+
+Cumulative Job Identification number : 25DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 640 211 212 F10 40A 30E 10E 20C
+0008 30C 10C F30 402 208 437 304 384
+0010 620 6A0 610 00A 037 001 FFF 00A
+0018 006 00A 037   
+Input lines are:(HEX)
+		00A
+		006
+output lines are:(HEX)
+		00A
+		037
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	29Words(DECIMAL)
+Time Job Entered the system	5c1HEX
+Time Job is leaving the system	707HEX
+Execution time	88DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	118DECIMAL
+
+Cumulative Job Identification number : 29DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 21C 640 21B 710 720 21A 640
+00c8 217 710 720 216 311 113 F50 407
+00d0 400 38C 30B 10E F50 38A 405 387
+00d8 306 108 F50 384 6A0 610 000 001
+00e0 00D fff ff3 000 001 00D 00E 00D 
+Input lines are:(HEX)
+		000
+		001
+		00D
+		00E
+output lines are:(HEX)
+		00D
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	40Words(DECIMAL)
+Time Job Entered the system	6ceHEX
+Time Job is leaving the system	76dHEX
+Execution time	23DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	63DECIMAL
+
+Cumulative Job Identification number : 27DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 21E 740 39B F90 483 117 195 43B
+0088 C16 21A 315 211 314 210 531 112
+0090 012 20E C11 640 20B 640 20A 640
+0098 209 52F 620 610 FFF 004 00A 8e
+00a0 002 00A 002 0FF 99 004 00A 002
+00a8 002    
+Input lines are:(HEX)
+		004
+		00A
+		002
+output lines are:(HEX)
+		002
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	44Words(DECIMAL)
+Time Job Entered the system	6ccHEX
+Time Job is leaving the system	79bHEX
+Execution time	65DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	105DECIMAL
+
+Cumulative Job Identification number : 30DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 E40 217 397 F00 F90 40F F10 40D
+0108 215 314 112 F10 408 210 30B 10D
+0110 F10 437 289 188 43A 303 F00 6A0
+0118 610 003 002 000 004 FFF 001 003
+0120 008 
+Input lines are:(HEX)
+		003
+output lines are:(HEX)
+		008
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	33Words(DECIMAL)
+Time Job Entered the system	6cfHEX
+Time Job is leaving the system	79cHEX
+Execution time	41DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	61DECIMAL
+
+Cumulative Job Identification number : 35DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 6C0 F90 610 F70 000 2BE 790 7A0
+0108 281 FF0 000 640 205 206 7C0 7A0
+0110 784 FF0 000 FF0 000 29A 319 132
+0118 F60 415 640 21A 710 720 133 F10
+0120 403 314 22F 408 311 710 720 12C
+0128 F20 402 30B 228 7A0 282 427 FF0
+0130 000 320 620 320 620 610 000 003
+0138 00A 000 002   
+Input lines are:(HEX)
+		003
+		00A
+		000
+		002
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	61Words(DECIMAL)
+Time Job Entered the system	79cHEX
+Time Job is leaving the system	7a0HEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Warning:	bad traceflag
+
+Degree of Multi Programming is	6DECIMAL
+JobId of CurrentJob being executed is	32DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		33DECIMAL
+		34DECIMAL
+		36DECIMAL
+		31DECIMAL
+JobIds of CurrentJobs in BLOCKEDQUEUE are
+		28DECIMAL 
+
+Cumulative Job Identification number : 32DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 309 705 207 403 640 204 439 302
+0028 620 610 038 000 00E 00A 003 038
+0030   
+Input lines are:(HEX)
+		00E
+		00A
+		003
+output lines are:(HEX)
+		038
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	18Words(DECIMAL)
+Time Job Entered the system	79eHEX
+Time Job is leaving the system	811HEX
+Execution time	10DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	30DECIMAL
+
+Cumulative Job Identification number : 28DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 F10 417 217 319 620 720 216
+0188 316 720 214 710 720 10D F10 40A
+0190 30D 620 309 109 209 306 206 306
+0198 203 42E 610 00A 037 022 037 00a
+01a0 00A 001 000 001 001 002 003 005
+01a8 008 00d 015 022  
+Input lines are:(HEX)
+		00A
+		001
+output lines are:(HEX)
+		000
+		001
+		001
+		002
+		003
+		005
+		008
+		00d
+		015
+		022
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	45Words(DECIMAL)
+Time Job Entered the system	6cdHEX
+Time Job is leaving the system	86eHEX
+Execution time	169DECIMAL
+Time spent doing I/O	110DECIMAL
+Total run time	279DECIMAL
+
+Cumulative Job Identification number : 36DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 21E 740 39B F90 483 117 195 43B
+0108 C16 21A 315 211 314 210 531 112
+0110 012 20E C11 640 20B 640 20A 640
+0118 209 52F 620 610 FFF 00E 008 10e
+0120 007 008 000 0FF 119 00E 008 000
+0128 006 003 009 007 7A0 282 
+Input lines are:(HEX)
+		00E
+		008
+		000
+		006
+		003
+		009
+output lines are:(HEX)
+		007
+		7A0
+		282
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	46Words(DECIMAL)
+Time Job Entered the system	7a1HEX
+Time Job is leaving the system	94eHEX
+Execution time	57DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	97DECIMAL
+
+Cumulative Job Identification number : 31DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 6C0 299 316 216 396 195 295 312
+0048 115 210 F40 439 390 18E 28E 309
+0050 10D 207 F40 42E 386 6A0 186 6A0
+0058 610 000 000 00F 01e 087 FFF 00F
+0060 002 001 00F 096 
+Input lines are:(HEX)
+		00F
+		002
+		001
+output lines are:(HEX)
+		00F
+		096
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	36Words(DECIMAL)
+Time Job Entered the system	79dHEX
+Time Job is leaving the system	94fHEX
+Execution time	78DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	108DECIMAL
+
+Cumulative Job Identification number : 37DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 217 640 216 640 215 313 112
+0188 214 30F 111 F30 403 18D 10D 43B
+0190 18C 740 106 188 FC0 43C 702 620
+0198 610 000 000 000 FFF 000 006 004
+01a0 002  
+Input lines are:(HEX)
+		006
+		004
+		002
+		
+output lines are:(HEX)
+		640
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	35Words(DECIMAL)
+Time Job Entered the system	86eHEX
+Time Job is leaving the system	nullHEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Warning:	Missing ** DATA record
+Error:	Missing Data
+
+Cumulative Job Identification number : 34DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 21D 31D 29F 11F F30 C18 19B 11B
+0088 F30 C14 43B 640 212 640 211 394
+0090 F30 406 20E 52C 30C 10D F40 43A
+0098 306 620 305 620 6A0 610 93 007
+00a0 001 001 001 FFF 001 000 000 000
+00a8 007 001 007 00A 007 001 007 
+00b0  
+Input lines are:(HEX)
+		007
+		001
+		007
+		00A
+output lines are:(HEX)
+		007
+		001
+		007
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	49Words(DECIMAL)
+Time Job Entered the system	7a0HEX
+Time Job is leaving the system	96dHEX
+Execution time	46DECIMAL
+Time spent doing I/O	50DECIMAL
+Total run time	96DECIMAL
+
+Cumulative Job Identification number : 38DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 217 397 F00 F90 40F F10 40D
+0108 215 314 112 F10 408 210 30B 10D
+0110 F10 437 289 188 43A 303 F00 6A0
+0118 610 002 002 000 002 FFF 001 002
+0120 00A 005 004    
+Input lines are:(HEX)
+		002
+		00A
+		005
+output lines are:(HEX)
+		004
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	38Words(DECIMAL)
+Time Job Entered the system	951HEX
+Time Job is leaving the system	996HEX
+Execution time	28DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	48DECIMAL
+
+Cumulative Job Identification number : 33DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 217 316 014 F30 403 315 620
+00c8 402 313 620 30C 702 20A 30C 10A
+00d0 20A F40 42F 610 000 000 000 000
+00d8 800 00D FFF 000 001 000 000 000
+00e0 00D 000 000 000 000 000 000 000
+00e8 000 000 000 000 000 
+Input lines are:(HEX)
+		00D
+output lines are:(HEX)
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	45Words(DECIMAL)
+Time Job Entered the system	79fHEX
+Time Job is leaving the system	9c1HEX
+Execution time	170DECIMAL
+Time spent doing I/O	130DECIMAL
+Total run time	300DECIMAL
+Warning:	Missing the **END record
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	39DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		40DECIMAL
+		42DECIMAL
+		43DECIMAL
+		44DECIMAL
+		45DECIMAL
+		46DECIMAL
+		47DECIMAL
+JobIds of CurrentJobs in BLOCKEDQUEUE are
+		41DECIMAL 
+
+Cumulative Job Identification number : 39DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 640 214 F10 41A 710 720 210 30E
+0048 110 F30 413 10D F30 41D 307 38A
+0050 7A0 288 790 7A0 283 409 010 ff0
+0058 ffe FFF 002 000 000 001 610 23B
+0060 137 F20 43C 337 F30 407 3B3 7A0
+0068 1AE FC0 423 330 230 32F 620 610
+0070 010 009 001  
+Input lines are:(HEX)
+		010
+		009
+output lines are:(HEX)
+		001
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	52Words(DECIMAL)
+Time Job Entered the system	952HEX
+Time Job is leaving the system	a11HEX
+Execution time	60DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	80DECIMAL
+
+Cumulative Job Identification number : 40DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 640 211 212 F10 40A 30E 10E 20C
+0008 30C 10C F30 402 208 437 304 384
+0010 620 6A0 610 005 00f 001 FFF 005
+0018 005 006 001 000 004 009 005 00f 
+Input lines are:(HEX)
+		005
+		005
+		006
+		001
+		000
+		004
+		009
+output lines are:(HEX)
+		005
+		00f
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	32Words(DECIMAL)
+Time Job Entered the system	953HEX
+Time Job is leaving the system	a48HEX
+Execution time	48DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	78DECIMAL
+
+Cumulative Job Identification number : 42DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 640 213 00F 20E 310 00D 703 703
+0088 20A 30B 009 705 705 105 103 206
+0090 206 407 000 100 F00 012 100 100
+0098 000 3BB 790 7A0 1B9 FD0 40C FC0
+00a0 405 3B3 6A0 3B3 6A0 610 3AE 6A0
+00a8 3AF 6A0 610 3AA 1AA 2A8 42A 012
+00b0 00A 001 007 012 000 
+Input lines are:(HEX)
+		012
+		00A
+		001
+		007
+output lines are:(HEX)
+		012
+		000
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	53Words(DECIMAL)
+Time Job Entered the system	a2bHEX
+Time Job is leaving the system	afbHEX
+Execution time	30DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	60DECIMAL
+
+Cumulative Job Identification number : 44DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 640 211 212 F10 40A 30E 10E 20C
+0028 30C 10C F30 402 208 437 304 384
+0030 620 6A0 610 002 003 001 FFF 002
+0038 002 003  
+Input lines are:(HEX)
+		002
+output lines are:(HEX)
+		002
+		003
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	27Words(DECIMAL)
+Time Job Entered the system	a2dHEX
+Time Job is leaving the system	afcHEX
+Execution time	24DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	54DECIMAL
+
+Cumulative Job Identification number : 45DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 21C 640 21B 710 720 21A 640
+00c8 217 710 720 216 311 113 F50 407
+00d0 400 38C 30B 10E F50 38A 405 387
+00d8 306 108 F50 384 6A0 610 003 001
+00e0 004 fff ffc 003 001 004 007 004 
+Input lines are:(HEX)
+		003
+		001
+		004
+		007
+output lines are:(HEX)
+		004
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	40Words(DECIMAL)
+Time Job Entered the system	a2eHEX
+Time Job is leaving the system	b50HEX
+Execution time	24DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	64DECIMAL
+
+Cumulative Job Identification number : 41DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 217 316 014 F30 403 315 620
+0188 402 313 620 30C 702 20A 30C 10A
+0190 20A F40 42F 610 000 000 000 000
+0198 800 00B FFF 000 001 000 000 000
+01a0 00B 003 000 000 000 000 000 000
+01a8 000 000 000 000 000 000 
+Input lines are:(HEX)
+		00B
+		003
+output lines are:(HEX)
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	46Words(DECIMAL)
+Time Job Entered the system	954HEX
+Time Job is leaving the system	bddHEX
+Execution time	170DECIMAL
+Time spent doing I/O	130DECIMAL
+Total run time	300DECIMAL
+
+Degree of Multi Programming is	5DECIMAL
+JobId of CurrentJob being executed is	49DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		43DECIMAL
+		50DECIMAL
+		51DECIMAL
+		52DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 49DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 21E 319 299 119 F30 C19 195 115
+0048 F30 C15 43B 640 20D 390 F30 406
+0050 20A 52E 308 109 F40 43A 303 620
+0058 6A0 610 006 001 2d0 FFF 001 51
+0060 006 006 2d0  
+Input lines are:(HEX)
+		006
+output lines are:(HEX)
+		006
+		2d0
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	36Words(DECIMAL)
+Time Job Entered the system	a2fHEX
+Time Job is leaving the system	c62HEX
+Execution time	134DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	164DECIMAL
+
+Degree of Multi Programming is	5DECIMAL
+JobId of CurrentJob being executed is	43DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		50DECIMAL
+		51DECIMAL
+		52DECIMAL
+		53DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Degree of Multi Programming is	5DECIMAL
+JobId of CurrentJob being executed is	43DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		50DECIMAL
+		51DECIMAL
+		52DECIMAL
+		53DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Degree of Multi Programming is	5DECIMAL
+JobId of CurrentJob being executed is	43DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		50DECIMAL
+		51DECIMAL
+		52DECIMAL
+		53DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 43DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 213 00F 20E 310 00D 703 703
+0108 20A 30B 009 705 705 105 103 206
+0110 206 407 000 000 F00 002 000 000
+0118 000 3BB 790 7A0 1B9 FD0 40C FC0
+0120 405 3B3 6A0 3B3 6A0 610 3AE 6A0
+0128 3AF 6A0 610 3AA 1AA 2A8 42A 002
+0130 005 001      
+Input lines are:(HEX)
+		002
+		005
+		001
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	55Words(DECIMAL)
+Time Job Entered the system	a2cHEX
+Time Job is leaving the system	nullHEX
+Execution time	1997DECIMAL
+Time spent doing I/O	10DECIMAL
+Total run time	2007DECIMAL
+Error:	Suspected Infinite loop
+
+Degree of Multi Programming is	6DECIMAL
+JobId of CurrentJob being executed is	53DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		54DECIMAL
+		55DECIMAL
+		50DECIMAL
+		51DECIMAL
+		52DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 50DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 6C0 F90 610 F70 004 2BE 790 7A0
+0088 281 FF0 ffc 640 205 206 7C0 7A0
+0090 784 FF0 002 FF0 00E 29A 319 132
+0098 F60 415 640 21A 710 720 133 F10
+00a0 403 314 22F 408 311 710 720 12C
+00a8 F20 402 30B 228 7A0 282 427 FF0
+00b0 005 320 620 320 620 610 00E 004
+00b8 00A 003 002 00E 002 00E 
+Input lines are:(HEX)
+		004
+		00A
+		003
+		002
+		00E
+output lines are:(HEX)
+		002
+		00E
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	62Words(DECIMAL)
+Time Job Entered the system	135dHEX
+Time Job is leaving the system	1431HEX
+Execution time	77DECIMAL
+Time spent doing I/O	70DECIMAL
+Total run time	147DECIMAL
+
+Cumulative Job Identification number : 55DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 309 705 207 403 640 204 439 302
+0008 620 610 038 000 00E 003 00F 038
+0010   
+Input lines are:(HEX)
+		00E
+		003
+		00F
+output lines are:(HEX)
+		038
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	18Words(DECIMAL)
+Time Job Entered the system	1362HEX
+Time Job is leaving the system	1446HEX
+Execution time	10DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	30DECIMAL
+
+Cumulative Job Identification number : 53DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 640 6C0 21A 21A 29A FB0 415 790
+0048 197 297 396 192 291 FE0 43B FA0
+0050 406 28C 38B F00 18A F00 F00 305
+0058 620 305 620 6A0 610 002 ff8 00A
+0060 001 ff6 002 00A 002 00A 002 
+Input lines are:(HEX)
+		002
+		00A
+output lines are:(HEX)
+		002
+		00A
+		002
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	39Words(DECIMAL)
+Time Job Entered the system	1360HEX
+Time Job is leaving the system	14a3HEX
+Execution time	26DECIMAL
+Time spent doing I/O	50DECIMAL
+Total run time	76DECIMAL
+
+Cumulative Job Identification number : 54DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 21D 31D 29F 11F F30 C18 19B 11B
+0108 F30 C14 43B 640 212 640 211 394
+0110 F30 406 20E 52C 30C 10D F40 43A
+0118 306 620 305 620 6A0 610 113 001
+0120 001 001 001 FFF 001 000 000 000
+0128 001 001 008 001 001 001 
+Input lines are:(HEX)
+		001
+		001
+		008
+output lines are:(HEX)
+		001
+		001
+		001
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	46Words(DECIMAL)
+Time Job Entered the system	1361HEX
+Time Job is leaving the system	14c7HEX
+Execution time	23DECIMAL
+Time spent doing I/O	50DECIMAL
+Total run time	73DECIMAL
+
+Cumulative Job Identification number : 52DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 21E 319 299 119 F30 C19 195 115
+00c8 F30 C15 43B 640 20D 390 F30 406
+00d0 20A 52E 308 109 F40 43A 303 620
+00d8 6A0 610 005 001 078 FFF 001 d1
+00e0 005 001 005 078  
+Input lines are:(HEX)
+		005
+		001
+output lines are:(HEX)
+		005
+		078
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	37Words(DECIMAL)
+Time Job Entered the system	135fHEX
+Time Job is leaving the system	152dHEX
+Execution time	103DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	133DECIMAL
+
+Cumulative Job Identification number : 51DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 054 F80 057 004 FFF FFF 640 F50
+0188 409 3B8 7A0 2B6 A35 3B5 7A0 2B3
+0190 435 054 330 20A 12F 209 209 339
+0198 208 720 207 303 203 40A 001 003
+01a0 003 054 055 610 610 005 FFF 610
+01a8 335 13C F10 41A 231 3B2 1B7 FD0
+01b0 426 2AE B2E 710 92D F20 406 B29
+01b8 22C B28 A26 329 A25 323 720 221
+01c0 720 220 42A 058 003 FFF BBC 2BB
+01c8 BBB F90 610 B37 620 335 720 233
+01d0 1B4 437 FFF FFF 001 005 007 008
+01d8 005 007 001 008 FFC 001 005 007
+01e0 008 
+Input lines are:(HEX)
+		005
+		007
+		001
+		008
+		FFC
+output lines are:(HEX)
+		001
+		005
+		007
+		008
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	97Words(DECIMAL)
+Time Job Entered the system	135eHEX
+Time Job is leaving the system	1602HEX
+Execution time	286DECIMAL
+Time spent doing I/O	90DECIMAL
+Total run time	376DECIMAL
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	57DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		56DECIMAL
+		58DECIMAL
+		59DECIMAL
+		60DECIMAL
+		61DECIMAL
+		62DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 57DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 640 F10 417 217 319 620 720 216
+0048 316 720 214 710 720 10D F10 40A
+0050 30D 620 309 109 209 306 206 306
+0058 203 42E 610 005 005 003 005 005
+0060 005 002 000 001 001 002 003  
+Input lines are:(HEX)
+		005
+		002
+output lines are:(HEX)
+		000
+		001
+		001
+		002
+		003
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	40Words(DECIMAL)
+Time Job Entered the system	1556HEX
+Time Job is leaving the system	169dHEX
+Execution time	84DECIMAL
+Time spent doing I/O	60DECIMAL
+Total run time	144DECIMAL
+
+Cumulative Job Identification number : 56DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 640 217 640 216 640 215 313 112
+0088 214 30F 111 F30 403 18D 10D 43B
+0090 18C 740 106 188 FC0 43C 702 620
+0098 610 006 004 002 FFF 008 006 004
+00a0 002 036 
+Input lines are:(HEX)
+		006
+		004
+		002
+output lines are:(HEX)
+		036
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	34Words(DECIMAL)
+Time Job Entered the system	1555HEX
+Time Job is leaving the system	169eHEX
+Execution time	109DECIMAL
+Time spent doing I/O	40DECIMAL
+Total run time	149DECIMAL
+Warning:	Missing the **END record
+
+Cumulative Job Identification number : 58DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 740 216 392 315 212 F20 403 310
+0008 720 20E 18B FB0 403 309 704 434
+0010 308 620 305 620 610 00C FFF 038
+0018 003 070 00A 070 003 
+Input lines are:(HEX)
+		00A
+output lines are:(HEX)
+		070
+		003
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	29Words(DECIMAL)
+Time Job Entered the system	1557HEX
+Time Job is leaving the system	16c7HEX
+Execution time	109DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	129DECIMAL
+
+Cumulative Job Identification number : 60DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 213 00F 20E 310 00D 703 703
+0108 20A 30B 009 705 705 105 103 206
+0110 206 407 000 100 F00 011 100 100
+0118 000 3BB 790 7A0 1B9 FD0 40C FC0
+0120 405 3B3 6A0 3B3 6A0 610 3AE 6A0
+0128 3AF 6A0 610 3AA 1AA 2A8 42A 011
+0130 008 011 000 
+Input lines are:(HEX)
+		011
+		008
+output lines are:(HEX)
+		011
+		000
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	51Words(DECIMAL)
+Time Job Entered the system	16a2HEX
+Time Job is leaving the system	171dHEX
+Execution time	30DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	60DECIMAL
+
+Cumulative Job Identification number : 59DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 640 214 640 213 395 110 211 F30
+0028 407 38E 30D 10D 18B 10B F40 43C
+0030 305 620 304 620 6A0 610 003 005
+0038 008 FFF 000 003 005 007 003 
+Input lines are:(HEX)
+		003
+		005
+		007
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	31Words(DECIMAL)
+Time Job Entered the system	16a1HEX
+Time Job is leaving the system	nullHEX
+Execution time	42DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	72DECIMAL
+Error:	Insufficient outputspace
+
+Cumulative Job Identification number : 62DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 740 216 392 315 212 F20 403 310
+0188 720 20E 18B FB0 403 309 704 434
+0190 308 620 305 620 610 00C FFF 038
+0198 003 070 070 003 
+output lines are:(HEX)
+		070
+		003
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	28Words(DECIMAL)
+Time Job Entered the system	16a4HEX
+Time Job is leaving the system	17fbHEX
+Execution time	109DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	129DECIMAL
+
+Cumulative Job Identification number : 61DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 6C0 F90 610 F70 004 2BE 790 7A0
+00c8 281 FF0 ffc 640 205 206 7C0 7A0
+00d0 784 FF0 000 FF0 00E 29A 319 132
+00d8 F60 415 640 21A 710 720 133 F10
+00e0 403 314 22F 408 311 710 720 12C
+00e8 F20 402 30B 228 7A0 282 427 FF0
+00f0 005 320 620 320 620 610 002 004
+00f8 00A 00E 000 002 000 00E 
+Input lines are:(HEX)
+		004
+		00A
+		00E
+		000
+		002
+output lines are:(HEX)
+		000
+		00E
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	62Words(DECIMAL)
+Time Job Entered the system	16a3HEX
+Time Job is leaving the system	17fcHEX
+Execution time	81DECIMAL
+Time spent doing I/O	70DECIMAL
+Total run time	151DECIMAL
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	64DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		65DECIMAL
+		63DECIMAL
+		66DECIMAL
+		67DECIMAL
+		68DECIMAL
+		69DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 63DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 640 217 397 F00 F90 40F F10 40D
+0048 215 314 112 F10 408 210 30B 10D
+0050 F10 437 289 188 43A 303 F00 6A0
+0058 610 006 002 000 020 FFF 001 006
+0060 008 001 007 040   
+Input lines are:(HEX)
+		006
+		008
+		001
+		007
+output lines are:(HEX)
+		040
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	38Words(DECIMAL)
+Time Job Entered the system	178cHEX
+Time Job is leaving the system	187dHEX
+Execution time	80DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	100DECIMAL
+
+Cumulative Job Identification number : 65DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 21E 319 299 119 F30 C19 195 115
+0108 F30 C15 43B 640 20D 390 F30 406
+0110 20A 52E 308 109 F40 43A 303 620
+0118 6A0 610 006 001 2d0 FFF 001 111
+0120 006 009 006 2d0  
+Input lines are:(HEX)
+		006
+		009
+output lines are:(HEX)
+		006
+		2d0
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	37Words(DECIMAL)
+Time Job Entered the system	178eHEX
+Time Job is leaving the system	18d7HEX
+Execution time	134DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	164DECIMAL
+
+Cumulative Job Identification number : 69DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 214 F10 41A 710 720 210 30E
+00c8 110 F30 413 10D F30 41D 307 38A
+00d0 7A0 288 790 7A0 283 409 004 ffc
+00d8 ffe FFF 002 000 000 001 610 23B
+00e0 137 F20 43C 337 F30 407 3B3 7A0
+00e8 1AE FC0 423 330 230 32F 620 610
+00f0 004 002 001 
+Input lines are:(HEX)
+		004
+		002
+output lines are:(HEX)
+		001
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	51Words(DECIMAL)
+Time Job Entered the system	194fHEX
+Time Job is leaving the system	19ecHEX
+Execution time	36DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	56DECIMAL
+
+Cumulative Job Identification number : 67DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 740 216 392 315 212 F20 403 310
+0008 720 20E 18B FB0 403 309 704 434
+0010 308 620 305 620 610 00C FFF 038
+0018 003 070 006 009 070 003 
+Input lines are:(HEX)
+		006
+		009
+output lines are:(HEX)
+		070
+		003
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	30Words(DECIMAL)
+Time Job Entered the system	18a4HEX
+Time Job is leaving the system	1a0dHEX
+Execution time	109DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	129DECIMAL
+
+Degree of Multi Programming is	6DECIMAL
+JobId of CurrentJob being executed is	64DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		66DECIMAL
+		71DECIMAL
+		68DECIMAL
+		72DECIMAL
+JobIds of CurrentJobs in BLOCKEDQUEUE are
+		70DECIMAL 
+
+Cumulative Job Identification number : 66DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 6C0 F90 610 F70 005 2BE 790 7A0
+0188 281 FF0 ffb 640 205 206 7C0 7A0
+0190 784 FF0 000 FF0 00E 29A 319 132
+0198 F60 415 640 21A 710 720 133 F10
+01a0 403 314 22F 408 311 710 720 12C
+01a8 F20 402 30B 228 7A0 282 427 FF0
+01b0 006 320 620 320 620 610 002 005
+01b8 000 003 007 00E 002 000 00E 
+Input lines are:(HEX)
+		005
+		000
+		003
+		007
+		00E
+		002
+output lines are:(HEX)
+		000
+		00E
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	63Words(DECIMAL)
+Time Job Entered the system	18a3HEX
+Time Job is leaving the system	1a26HEX
+Execution time	106DECIMAL
+Time spent doing I/O	80DECIMAL
+Total run time	186DECIMAL
+
+Cumulative Job Identification number : 71DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 213 00F 20E 310 00D 703 703
+0108 20A 30B 009 705 705 105 103 206
+0110 206 407 000 100 F00 01C 100 100
+0118 000 3BB 790 7A0 1B9 FD0 40C FC0
+0120 405 3B3 6A0 3B3 6A0 610 3AE 6A0
+0128 3AF 6A0 610 3AA 1AA 2A8 42A 01C
+0130 008 01C 000   
+Input lines are:(HEX)
+		01C
+		008
+output lines are:(HEX)
+		01C
+		000
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	53Words(DECIMAL)
+Time Job Entered the system	1951HEX
+Time Job is leaving the system	1a27HEX
+Execution time	30DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	60DECIMAL
+
+Cumulative Job Identification number : 64DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 640 38B 6A0 18B 288 388 6A0 186
+0088 285 106 F40 435 610 008 100 001
+0090 FFF 007 001 002 002 004 003 008
+0098 004 010 005 020 006 040 007 080
+00a0  
+Input lines are:(HEX)
+		007
+output lines are:(HEX)
+		001
+		002
+		002
+		004
+		003
+		008
+		004
+		010
+		005
+		020
+		006
+		040
+		007
+		080
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	33Words(DECIMAL)
+Time Job Entered the system	178dHEX
+Time Job is leaving the system	1a60HEX
+Execution time	78DECIMAL
+Time spent doing I/O	150DECIMAL
+Total run time	228DECIMAL
+
+Cumulative Job Identification number : 70DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 640 F10 417 217 319 620 720 216
+0048 316 720 214 710 720 10D F10 40A
+0050 30D 620 309 109 209 306 206 306
+0058 203 42E 610 00A 037 022 037 00a
+0060 00A 005 000 001 001 002 003 005
+0068 008 00d 015 022  
+Input lines are:(HEX)
+		00A
+		005
+output lines are:(HEX)
+		000
+		001
+		001
+		002
+		003
+		005
+		008
+		00d
+		015
+		022
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	45Words(DECIMAL)
+Time Job Entered the system	1950HEX
+Time Job is leaving the system	1c00HEX
+Execution time	169DECIMAL
+Time spent doing I/O	110DECIMAL
+Total run time	279DECIMAL
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	68DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		72DECIMAL
+		73DECIMAL
+		74DECIMAL
+		75DECIMAL
+		76DECIMAL
+		77DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	68DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		72DECIMAL
+		73DECIMAL
+		74DECIMAL
+		75DECIMAL
+		76DECIMAL
+		77DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	68DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		72DECIMAL
+		73DECIMAL
+		74DECIMAL
+		75DECIMAL
+		76DECIMAL
+		77DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	68DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		72DECIMAL
+		73DECIMAL
+		74DECIMAL
+		75DECIMAL
+		76DECIMAL
+		77DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 68DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 640 720 105 F30 401 43B 620 610
+0028 FFF 000 005 004  
+Input lines are:(HEX)
+		005
+		004
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	13Words(DECIMAL)
+Time Job Entered the system	194eHEX
+Time Job is leaving the system	nullHEX
+Execution time	1997DECIMAL
+Time spent doing I/O	10DECIMAL
+Total run time	2007DECIMAL
+Error:	Suspected Infinite loop
+
+Cumulative Job Identification number : 72DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0  
+output lines are:(HEX)
+		640
+		214
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	35Words(DECIMAL)
+Time Job Entered the system	19ecHEX
+Time Job is leaving the system	nullHEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Error:	MissingLoaderformat
+
+Cumulative Job Identification number : 73DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 6C0 299 316 216 396 195 295 312
+0188 115 210 F40 439 390 18E 28E 309
+0190 10D 207 F40 42E 386 6A0 186 6A0
+0198 610 003 000 000 000 000 FFF  
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	34Words(DECIMAL)
+Time Job Entered the system	1a26HEX
+Time Job is leaving the system	nullHEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Warning:	Missing ** DATA record
+Error:	Missing Data
+
+Cumulative Job Identification number : 75DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 640 214 640 213 395 110 211 F30
+0008 407 38E 30D 10D 18B 10B F40 43C
+0010 305 620 304 620 6A0 610 000 000
+0018 000 FFF 000  
+output lines are:(HEX)
+		640
+		214
+		640
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	32Words(DECIMAL)
+Time Job Entered the system	1a27HEX
+Time Job is leaving the system	nullHEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Error:	Missing Data
+
+Cumulative Job Identification number : 74DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 214 640 213 395 110 211 F30
+0108 407 38E 30D 10D 18B 10B F40 43C
+0110 305 620 304 620 6A0 610 003 002
+0118 005 FFF 000 003 002 001 003 002
+0120 019  
+Input lines are:(HEX)
+		003
+		002
+		001
+output lines are:(HEX)
+		003
+		002
+		019
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	34Words(DECIMAL)
+Time Job Entered the system	226fHEX
+Time Job is leaving the system	234dHEX
+Execution time	32DECIMAL
+Time spent doing I/O	50DECIMAL
+Total run time	82DECIMAL
+
+Cumulative Job Identification number : 78DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 740 216 392 315 212 F20 403 310
+0028 720 20E 18B FB0 403 309 704 434
+0030 308 620 305 620 610 00C FFF 038
+0038 003 070 00E 070 003    
+Input lines are:(HEX)
+		00E
+output lines are:(HEX)
+		070
+		003
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	32Words(DECIMAL)
+Time Job Entered the system	2272HEX
+Time Job is leaving the system	2421HEX
+Execution time	109DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	129DECIMAL
+
+Degree of Multi Programming is	5DECIMAL
+JobId of CurrentJob being executed is	76DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		79DECIMAL
+		80DECIMAL
+		81DECIMAL
+JobIds of CurrentJobs in BLOCKEDQUEUE are
+		77DECIMAL 
+
+Cumulative Job Identification number : 76DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 0 010 640 210 23B 3BB 790 7A0
+0088 28A 7C0 335 F10 417 3B2 740 183
+0090 FD0 405 402 ff0 01E 720 438 1A9
+0098 290 226 740 3A5 10D 18D F90 401
+00a0 43B 107 207 426 32F 620 303 620
+00a8 610 001 0e1 FFF 01E 01E 0e1 
+Input lines are:(HEX)
+		01E
+output lines are:(HEX)
+		01E
+		0e1
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	47Words(DECIMAL)
+Time Job Entered the system	2270HEX
+Time Job is leaving the system	2442HEX
+Execution time	179DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	209DECIMAL
+
+Cumulative Job Identification number : 79DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 217 397 F00 F90 40F F10 40D
+00c8 215 314 112 F10 408 210 30B 10D
+00d0 F10 437 289 188 43A 303 F00 6A0
+00d8 610 002 002 000 002 FFF 001 002
+00e0 005 004   
+Input lines are:(HEX)
+		002
+		005
+output lines are:(HEX)
+		004
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	36Words(DECIMAL)
+Time Job Entered the system	2424HEX
+Time Job is leaving the system	246eHEX
+Execution time	28DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	48DECIMAL
+
+Cumulative Job Identification number : 77DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 640 F10 417 217 319 620 720 216
+0048 316 720 214 710 720 10D F10 40A
+0050 30D 620 309 109 209 306 206 306
+0058 203 42E 610 00B 059 037 059 00b
+0060 00B 006 000 001 001 002 003 005
+0068 008 00d 015 022 037   
+Input lines are:(HEX)
+		00B
+		006
+output lines are:(HEX)
+		000
+		001
+		001
+		002
+		003
+		005
+		008
+		00d
+		015
+		022
+		037
+Partition number used by this job	2(DECIMAL)	
+ size occupied by this job	47Words(DECIMAL)
+Time Job Entered the system	2271HEX
+Time Job is leaving the system	24ddHEX
+Execution time	186DECIMAL
+Time spent doing I/O	120DECIMAL
+Total run time	306DECIMAL
+
+Cumulative Job Identification number : 80DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 211 212 F10 40A 30E 10E 20C
+0188 30C 10C F30 402 208 437 304 384
+0190 620 6A0 610 009 02d 001 FFF 009
+0198 009 02d 
+Input lines are:(HEX)
+		009
+output lines are:(HEX)
+		009
+		02d
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	26Words(DECIMAL)
+Time Job Entered the system	2425HEX
+Time Job is leaving the system	2569HEX
+Execution time	80DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	110DECIMAL
+
+Cumulative Job Identification number : 82DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 21E 740 39B F90 483 117 195 43B
+0088 C16 21A 315 211 314 210 S31 112
+0090 012 20E C11 640 20B 640 20A 640
+0098 209 52F 620 610 FFF 007 001 000
+00a0 007 001 004 0FF 99 007 001 004
+00a8 002   
+Input lines are:(HEX)
+		007
+		001
+		004
+		002
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	43Words(DECIMAL)
+Time Job Entered the system	24f3HEX
+Time Job is leaving the system	nullHEX
+Execution time	13DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	43DECIMAL
+Error:	illegal input
+
+Cumulative Job Identification number : 83DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 217 397 F00 F90 40F F10 40D
+00c8 215 314 112 F10 408 210 30B 10D
+00d0 F10 437 289 188 43A 303 F00 6A0
+00d8 610 007 002 000 040 FFF 001 007
+00e0 080   
+Input lines are:(HEX)
+		007
+output lines are:(HEX)
+		080
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	35Words(DECIMAL)
+Time Job Entered the system	24f4HEX
+Time Job is leaving the system	25f9HEX
+Execution time	93DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	113DECIMAL
+
+Degree of Multi Programming is	7DECIMAL
+JobId of CurrentJob being executed is	81DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		84DECIMAL
+		85DECIMAL
+		86DECIMAL
+		87DECIMAL
+		88DECIMAL
+		89DECIMAL
+		90DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 84DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 640 211 212 F10 40A 30E 10E 20C
+0008 30C 10C F30 402 208 437 304 384
+0010 620 6A0 610 00A 037 001 FFF 00A
+0018 001 009 003 00A 037 
+Input lines are:(HEX)
+		00A
+		001
+		009
+		003
+output lines are:(HEX)
+		00A
+		037
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	29Words(DECIMAL)
+Time Job Entered the system	24f5HEX
+Time Job is leaving the system	2649HEX
+Execution time	88DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	118DECIMAL
+
+Cumulative Job Identification number : 87DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 217 316 014 F30 403 315 620
+0188 402 313 620 30C 702 20A 30C 10A
+0190 20A F40 42F 610 000 000 000 000
+0198 800 000 FFF 00C 001 000 000 000
+01a0 00D       
+01a8      
+Input lines are:(HEX)
+		00D
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	45Words(DECIMAL)
+Time Job Entered the system	2569HEX
+Time Job is leaving the system	25a4HEX
+Execution time	0DECIMAL
+Time spent doing I/O	0DECIMAL
+Total run time	0DECIMAL
+Warning:	bad traceflag
+
+Cumulative Job Identification number : 81DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 217 316 014 F30 403 315 620
+0108 402 313 620 30C 702 20A 30C 10A
+0110 20A F40 42F 610 000 000 000 000
+0118 800 006 FFF 000 001 000 000 000
+0120 006 000 000 000 000 000 000 000
+0128 000 000 000 000 000   
+Input lines are:(HEX)
+		006
+output lines are:(HEX)
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+		000
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	47Words(DECIMAL)
+Time Job Entered the system	2426HEX
+Time Job is leaving the system	26c3HEX
+Execution time	170DECIMAL
+Time spent doing I/O	130DECIMAL
+Total run time	300DECIMAL
+
+Cumulative Job Identification number : 92DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 309 705 207 403 640 204 439 302
+0008 620 610 00c 000 003 002 
+Input lines are:(HEX)
+		003
+		002
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	14Words(DECIMAL)
+Time Job Entered the system	26b1HEX
+Time Job is leaving the system	nullHEX
+Execution time	9DECIMAL
+Time spent doing I/O	10DECIMAL
+Total run time	19DECIMAL
+Error:	Insufficient outputspace
+
+Cumulative Job Identification number : 85DECIMAL
+the part of partition occupied by this program :(HEX)
+0020 740 216 392 315 212 F20 403 310
+0028 720 20E 18B FB0 403 309 704 434
+0030 308 620 305 620 610 00C FFF 038
+0038 003 070 004 00A 070 003 
+Input lines are:(HEX)
+		004
+		00A
+output lines are:(HEX)
+		070
+		003
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	30Words(DECIMAL)
+Time Job Entered the system	2618HEX
+Time Job is leaving the system	2730HEX
+Execution time	109DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	129DECIMAL
+Warning:	Missing the **END record
+
+Cumulative Job Identification number : 91DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 640 213 00F 20E 310 00D 703 703
+0188 20A 30B 009 705 705 105 103 206
+0190 206 407 000 700 F00 072 700 700
+0198 000 3BB 790 7A0 1B9 FD0 40C FC0
+01a0 405 3B3 6A0 3B3 6A0 610 3AE 6A0
+01a8 3AF 6A0 610 3AA 1AA 2A8 42A 072
+01b0 072 000 
+Input lines are:(HEX)
+		072
+output lines are:(HEX)
+		072
+		000
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	50Words(DECIMAL)
+Time Job Entered the system	26b0HEX
+Time Job is leaving the system	2761HEX
+Execution time	30DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	60DECIMAL
+
+Cumulative Job Identification number : 86DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 640 211 212 F10 40A 30E 10E 20C
+0048 30C 10C F30 402 208 437 304 384
+0050 620 6A0 610 00C 04e 001 FFF 00C
+0058 00C 04e     
+Input lines are:(HEX)
+		00C
+output lines are:(HEX)
+		00C
+		04e
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	30Words(DECIMAL)
+Time Job Entered the system	26adHEX
+Time Job is leaving the system	27d7HEX
+Execution time	104DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	134DECIMAL
+
+Cumulative Job Identification number : 90DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 0 010 640 210 23B 3BB 790 7A0
+00c8 28A 7C0 335 F10 417 3B2 740 183
+00d0 FD0 405 402 ff0 001 720 438 1A9
+00d8 290 226 740 3A5 10D 18D F90 401
+00e0 43B 107 207 426 32F 620 303 620
+00e8 610 001 001 FFF 001 00A 008 01C
+00f0 001 001    
+Input lines are:(HEX)
+		001
+		00A
+		008
+		01C
+output lines are:(HEX)
+		001
+		001
+Partition number used by this job	1(DECIMAL)	
+ size occupied by this job	53Words(DECIMAL)
+Time Job Entered the system	26afHEX
+Time Job is leaving the system	2829HEX
+Execution time	95DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	125DECIMAL
+
+Degree of Multi Programming is	5DECIMAL
+JobId of CurrentJob being executed is	93DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		95DECIMAL
+		96DECIMAL
+		97DECIMAL
+JobIds of CurrentJobs in BLOCKEDQUEUE are
+		88DECIMAL 
+
+Cumulative Job Identification number : 88DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 640 38B 6A0 18B 288 388 6A0 186
+0088 285 106 F40 435 610 006 040 001
+0090 FFF 005 003 002 001 002 002 004
+0098 003 008 004 010 005 020 
+Input lines are:(HEX)
+		005
+		003
+		002
+output lines are:(HEX)
+		001
+		002
+		002
+		004
+		003
+		008
+		004
+		010
+		005
+		020
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	30Words(DECIMAL)
+Time Job Entered the system	26aeHEX
+Time Job is leaving the system	2870HEX
+Execution time	56DECIMAL
+Time spent doing I/O	110DECIMAL
+Total run time	166DECIMAL
+
+Cumulative Job Identification number : 93DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 21C 318 7C0 196 116 F30 C16 43B
+0108 640 20F 7C0 F30 408 20C 531 18C
+0110 28B 308 108 F40 438 303 620 6A0
+0118 610 002 001 FFF 005 10e 002 002
+0120 005   
+Input lines are:(HEX)
+		002
+output lines are:(HEX)
+		002
+		005
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	35Words(DECIMAL)
+Time Job Entered the system	27c9HEX
+Time Job is leaving the system	2871HEX
+Execution time	41DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	71DECIMAL
+
+Cumulative Job Identification number : 95DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 6C0 299 316 216 396 195 295 312
+0188 115 210 F40 439 390 18E 28E 309
+0190 10D 207 F40 42E 386 6A0 186 6A0
+0198 610 000 000 008 010 048 FFF 008
+01a0 00A 01F 008 050     
+Input lines are:(HEX)
+		008
+		00A
+		01F
+output lines are:(HEX)
+		008
+		050
+Partition number used by this job	3(DECIMAL)	
+ size occupied by this job	40Words(DECIMAL)
+Time Job Entered the system	27caHEX
+Time Job is leaving the system	2899HEX
+Execution time	78DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	108DECIMAL
+
+Cumulative Job Identification number : 97DECIMAL
+the part of partition occupied by this program :(HEX)
+00c0 640 217 397 F00 F90 40F F10 40D
+00c8 215 314 112 F10 408 210 30B 10D
+00d0 F10 437 289 188 43A 303 F00 6A0
+00d8 610 007 002 000 040 FFF 001 007
+00e0 008 00B 002 080   
+Input lines are:(HEX)
+		007
+		008
+		00B
+		002
+output lines are:(HEX)
+		080
+Partition number used by this job	4(DECIMAL)	
+ size occupied by this job	38Words(DECIMAL)
+Time Job Entered the system	2861HEX
+Time Job is leaving the system	293bHEX
+Execution time	93DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	113DECIMAL
+
+Cumulative Job Identification number : 96DECIMAL
+the part of partition occupied by this program :(HEX)
+0040 217 315 710 720 111 C12 E40 20E
+0048 640 20D F30 41F 00C F40 41C 306
+0050 F30 419 006 F40 416 406 000 001
+0058 5a 800 525 409 523 03B F30 404
+0060 3B6 334 234 2B2 435 230 3AF 32F
+0068 FB0 402 431 302 620 610 FFF 00A
+0070 009 001 
+Input lines are:(HEX)
+		00A
+		009
+output lines are:(HEX)
+		001
+Partition number used by this job	5(DECIMAL)	
+ size occupied by this job	50Words(DECIMAL)
+Time Job Entered the system	2860HEX
+Time Job is leaving the system	29deHEX
+Execution time	257DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	287DECIMAL
+
+Degree of Multi Programming is	4DECIMAL
+JobId of CurrentJob being executed is	102DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		98DECIMAL
+		100DECIMAL
+		101DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 100DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 640 214 F10 41A 710 720 210 30E
+0108 110 F30 413 10D F30 41D 307 38A
+0110 7A0 288 790 7A0 283 409 00A ff6
+0118 ffe FFF 002 000 000 001 610 23B
+0120 137 F20 43C 337 F30 407 3B3 7A0
+0128 1AE FC0 423 330 230 32F 620 610
+0130 00A 00C 005 001  
+Input lines are:(HEX)
+		00A
+		00C
+		005
+output lines are:(HEX)
+		001
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	53Words(DECIMAL)
+Time Job Entered the system	29d1HEX
+Time Job is leaving the system	2a8cHEX
+Execution time	48DECIMAL
+Time spent doing I/O	20DECIMAL
+Total run time	68DECIMAL
+
+Cumulative Job Identification number : 102DECIMAL
+the part of partition occupied by this program :(HEX)
+0180 054 F80 055 002 FFF FFF 640 F50
+0188 409 3B8 7A0 2B6 A35 3B5 7A0 2B3
+0190 435 054 330 20A 12F 209 209 339
+0198 208 720 207 303 203 40A 001 001
+01a0 001 054 055 610 610 610 FFF 610
+01a8 335 13C F10 41A 231 3B2 1B7 FD0
+01b0 426 2AE B2E 710 92D F20 406 B29
+01b8 22C B28 A26 329 A25 323 720 221
+01c0 720 220 42A 056 003 FFF BBC 2BB
+01c8 BBB F90 610 B37 620 335 720 233
+01d0 1B4 437 FFF FFF 001 01C 001 01C
+01d8 FFC 001 01C 
+Input lines are:(HEX)
+		001
+		01C
+		FFC
+output lines are:(HEX)
+		001
+		01C
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	91Words(DECIMAL)
+Time Job Entered the system	29d3HEX
+Time Job is leaving the system	2b3aHEX
+Execution time	90DECIMAL
+Time spent doing I/O	50DECIMAL
+Total run time	140DECIMAL
+
+Degree of Multi Programming is	3DECIMAL
+JobId of CurrentJob being executed is	98DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		101DECIMAL
+		103DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 98DECIMAL
+the part of partition occupied by this program :(HEX)
+0080 217 315 710 720 111 C12 640 20E
+0088 640 20D F30 41F 00C F40 41C 306
+0090 F30 419 006 F40 416 406 000 001
+0098 9a 800 525 409 523 03B F30 404
+00a0 3B6 334 234 2B2 435 230 3AF 32F
+00a8 FB0 402 431 302 620 610 FFF 00A
+00b0 009 001 
+Input lines are:(HEX)
+		00A
+		009
+output lines are:(HEX)
+		001
+Partition number used by this job	0(DECIMAL)	
+ size occupied by this job	50Words(DECIMAL)
+Time Job Entered the system	29d0HEX
+Time Job is leaving the system	2ca1HEX
+Execution time	257DECIMAL
+Time spent doing I/O	30DECIMAL
+Total run time	287DECIMAL
+
+Degree of Multi Programming is	2DECIMAL
+JobId of CurrentJob being executed is	101DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		103DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Degree of Multi Programming is	2DECIMAL
+JobId of CurrentJob being executed is	101DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		103DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Degree of Multi Programming is	2DECIMAL
+JobId of CurrentJob being executed is	101DECIMAL
+JobIds of CurrentJobs in READYQUEUE are
+		103DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 101DECIMAL
+the part of partition occupied by this program :(HEX)
+0000 640 720 105 F30 401 43B 620 610
+0008 FFF 000 00A 006 002 004  
+0010  
+Input lines are:(HEX)
+		00A
+		006
+		002
+		004
+Partition number used by this job	6(DECIMAL)	
+ size occupied by this job	17Words(DECIMAL)
+Time Job Entered the system	29d2HEX
+Time Job is leaving the system	nullHEX
+Execution time	1997DECIMAL
+Time spent doing I/O	10DECIMAL
+Total run time	2007DECIMAL
+Error:	Suspected Infinite loop
+
+Degree of Multi Programming is	1DECIMAL
+JobId of CurrentJob being executed is	103DECIMAL
+No Jobs in BLOCKEDQUEUE at this time
+
+Cumulative Job Identification number : 103DECIMAL
+the part of partition occupied by this program :(HEX)
+0100 054 F80 059 006 FFF FFF 640 F50
+0108 409 3B8 7A0 2B6 A35 3B5 7A0 2B3
+0110 435 054 330 20A 12F 209 209 339
+0118 208 720 207 303 203 40A 001 005
+0120 005 054 055 610 610 00E FFF 610
+0128 335 13C F10 41A 231 3B2 1B7 FD0
+0130 426 2AE B2E 710 92D F20 406 B29
+0138 22C B28 A26 329 A25 323 720 221
+0140 720 220 42A 05a 003 FFF BBC 2BB
+0148 BBB F90 610 B37 620 335 720 233
+0150 1B4 437 FFF FFF 001 004 008 009
+0158 00E 00F 00E 001 004 00F 008 009
+0160 FF8 001 004 008 009 00E 00F 
+Input lines are:(HEX)
+		00E
+		001
+		004
+		00F
+		008
+		009
+		FF8
+output lines are:(HEX)
+		001
+		004
+		008
+		009
+		00E
+		00F
+Partition number used by this job	1(DECIMAL)	
+ size occupied by this job	103Words(DECIMAL)
+Time Job Entered the system	3333HEX
+Time Job is leaving the system	3618HEX
+Execution time	612DECIMAL
+Time spent doing I/O	130DECIMAL
+Total run time	742DECIMAL
+
+Statistics of this batch:
+Current value of CLOCK	3618HEX
+mean user Job runtime	171DECIMAL
+mean user Job Execution time	131DECIMAL
+meanuser Job IO time	40DECIMAL
+mean user job time in the system	134DECIMAL
+total CPU idle time	300DECIMAL
+total time lost due to partial processing of abnormally terminated jobs	6299DECIMAL
+number of jobs that terminated normally	80DECIMAL
+number of jobs that terminated abnormally	23DECIMAL
+time lost due to partial processing of jobs containing suspected infinite loops	6025DECIMAL
+ID of jobs considered infinite (HEX)2b	44	65
+mean internal fragmentation	31DECIMAL

@@ -1,11 +1,5 @@
 
 //   NAME : CHILLA, KIRAN KUMAR
-//   CWID : 11752074
-//   COURSE NUMBER : CS 5323
-//   ASSIGNMENT TITLE : OPERATING SYSTEMS2 PHASE-1
-//   DATE : MARCH 21, 2017
-
-
 /*It has the main function. it calls loader and retrieves the current job from Scheduler and then calls CPU. If the Job is completed, 
 it writes output to the Progressive File and deallocates PCB and Memory of that Job and calls loader
  * to load new Jobs If new Jobs are present in File. If all the jobs are executed, then it writes output to the outputStats file

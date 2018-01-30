@@ -4,5 +4,5 @@ An Individual project where I designed a basic virtual operating system using Ja
 
 System.java module has the "main class"
 Input.txt is the input file which can be passed as a command line argument; Input to the system will be in Hex format.
-Output of the program will be in Progress_file
-It also generates trace file for every input job if tracebit is set in the input. This trace file gives the more insights of how input is processed.
+Output of the program will be in Progress_file.
+It also generates trace file for every input job if tracebit is set to 1 in the input. This trace file gives the more insights of how input is processed.
